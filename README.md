@@ -15,8 +15,6 @@
     </summary>
   </ul>
 
-ℳ𝑒𝓉𝒶𝒽𝑒𝓊𝓇𝒾𝓈𝓉𝒾𝒸 𝒜𝓁𝑔𝑜𝓇𝒾𝓉𝒽𝓂𝓈 𝒾𝓃 𝟤𝟢𝟤𝟧
-
 <div align="center" width=100%>
 
 |**Ref**   |**Algorithm Name**                                                             |**Pub. Year**|**Ref**   |**Algorithm Name**                                                               |**Pub. Year**|
