@@ -17,7 +17,7 @@
 
 <div align="center">
 
-|**Ref**   |**Algorithm Name**                                                             |**Pub. Year**|**Ref**|**Algorithm Name**                                                                  |**Pub. Year**|
+|**Ref**   |**Algorithm Name**                                                             |**Pub. Year**|**Ref**   |**Algorithm Name**                                                               |**Pub. Year**|
 |:--------:|:------------------------------------------------------------------------------|:-----------:|:--------:|:--------------------------------------------------------------------------------|:-----------:|
 |**[1]**   | QuickSort                                                                     | 1960        |**[1]**   | O(n log n)                                                                      | Sorting     |
 |**[1]**   | Dijkstra's Algorithm                                                          | 1956        |**[1]**   | O(V²) / O(E + V log V)                                                          | Graph Theory|
@@ -56,7 +56,6 @@
 |**[1]**   | 2018                                                                          | O(n²)       |**[1]**   | NLP & AI                                                                        |  Sorting    |
 
 </div>
-
 
 ---
 # **References**
