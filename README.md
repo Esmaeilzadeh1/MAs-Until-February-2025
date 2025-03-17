@@ -238,6 +238,70 @@
 
 </div>
 
+<div id="user-content-toc">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h2>
+        
+`              𝕸𝖊𝖙𝖆𝖍𝖊𝖚𝖗𝖎𝖘𝖙𝖎𝖈 𝕬𝖑𝖌𝖔𝖗𝖎𝖙𝖍𝖒𝖘 𝖎𝖓 𝟙𝟡𝟡𝟜              `
+      </h2>
+    </summary>
+  </ul>
+
+<div align="center" width=100%>
+
+|**Ref**   |**Algorithm Name**                                                             |
+|:--------:|:------------------------------------------------------------------------------|
+|**[1]**   | Cultural Algorithms (CA)                                                      |
+
+[13] (CA) R.G. Reynolds, An introduction to cultural algorithms, in: Proc. Third Annu. Conf. Evol. Program., World Scientific, 1994: pp. 131–139.
+
+</div>
+
+<div id="user-content-toc">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h2>
+        
+`              𝕸𝖊𝖙𝖆𝖍𝖊𝖚𝖗𝖎𝖘𝖙𝖎𝖈 𝕬𝖑𝖌𝖔𝖗𝖎𝖙𝖍𝖒𝖘 𝖎𝖓 𝟙𝟡𝟡𝟝              `
+      </h2>
+    </summary>
+  </ul>
+</div>
+
+<div align="center">
+
+|**Ref**   |**Algorithm Name**                                                            |**Ref**   |**Algorithm Name**                                                            |
+|:--------:|:----------------------------------------------------------------------------:|:--------:|:----------------------------------------------------------------------------:|
+|**[1]**   | Differential Evolution (DE)                                                  |**[1]**   | Particle Swarm Optimization (PSO)                                            |
+|**[1]**   | Old Bachelor Acceptance (OBA)                                                |          |                                                                              |
+
+[14] (DE) R. Storn, K. Price, Differential evolution–a simple and efficient heuristic for global optimization over continuous spaces, J. Glob. Optim. 11 (1997) 341–359.
+[15] (PSO) R. Eberhart, J. Kennedy, A new optimizer using particle swarm theory, in: MHS’95. Proc. Sixth Int. Symp. Micro Mach. Hum. Sci., Ieee, 1995: pp. 39–43.
+[16] (OBA) T.C. Hu, A.B. Kahng, C.-W.A. Tsao, Old bachelor acceptance: A new class of non-monotone threshold accepting methods, ORSA J. Comput. 7 (1995) 417–425.
+
+</div>
+
+<div id="user-content-toc">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h2>
+        
+`              𝕸𝖊𝖙𝖆𝖍𝖊𝖚𝖗𝖎𝖘𝖙𝖎𝖈 𝕬𝖑𝖌𝖔𝖗𝖎𝖙𝖍𝖒𝖘 𝖎𝖓 𝟙𝟡𝟡𝟝              `
+      </h2>
+    </summary>
+  </ul>
+</div>
+
+<div align="center">
+  
+|**Ref**   |**Algorithm Name**                                                             |
+|:--------:|:------------------------------------------------------------------------------|
+|**[1]**   | Bacterial Evolutionary Algorithm (BEA)                                        |
+
+[17] (BEA) C. Numaoka, Bacterial evolution algorithm for rapid adaptation, in: Eur. Work. Model. Auton. Agents a Multi-Agent World, Springer, 1996: pp. 139–148.
+
+</div>
 
 
 𝟚 𝟛  𝟝   𝟠 𝟙𝟡𝟟𝟙 𝟞𝟜𝟘
