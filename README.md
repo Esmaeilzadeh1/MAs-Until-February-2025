@@ -1,7 +1,7 @@
 <div id="user-content-toc">
   <ul align="center" style="list-style: none;">
     <summary>
-      <h1><b>List of Metaheuristic Algorithms until February 2025</b></h1>
+      <h1><b>𝕷𝖎𝖘𝖙 𝖔𝖋 𝕸𝖊𝖙𝖆𝖍𝖊𝖚𝖗𝖎𝖘𝖙𝖎𝖈 𝕬𝖑𝖌𝖔𝖗𝖎𝖙𝖍𝖒𝖘 𝖚𝖓𝖙𝖎𝖑 𝕱𝖊𝖇𝖗𝖚𝖆𝖗𝖞 𝟚𝟘𝟚𝟝</b></h1>
     </summary>
   </ul>
 </div>
@@ -11,9 +11,11 @@
 <div id="user-content-toc">
   <ul align="center" style="list-style: none;">
     <summary>
-      <h2><b>(Metaheuristic Algorithms in 2025)</b></h2>
+      <h2><b>——————— 𝕸𝖊𝖙𝖆𝖍𝖊𝖚𝖗𝖎𝖘𝖙𝖎𝖈 𝕬𝖑𝖌𝖔𝖗𝖎𝖙𝖍𝖒𝖘 𝖎𝖓 𝟚𝟘𝟚𝟝 ————————</b></h2>
     </summary>
   </ul>
+
+ℳ𝑒𝓉𝒶𝒽𝑒𝓊𝓇𝒾𝓈𝓉𝒾𝒸 𝒜𝓁𝑔𝑜𝓇𝒾𝓉𝒽𝓂𝓈 𝒾𝓃 𝟤𝟢𝟤𝟧
 
 <div align="center" width=100%>
 
@@ -35,7 +37,7 @@
 <div id="user-content-toc">
   <ul align="center" style="list-style: none;">
     <summary>
-      <h2><b>(Metaheuristic Algorithms in 2024)</b></h2>
+      <h2><b>𝕸𝖊𝖙𝖆𝖍𝖊𝖚𝖗𝖎𝖘𝖙𝖎𝖈 𝕬𝖑𝖌𝖔𝖗𝖎𝖙𝖍𝖒𝖘 𝖎𝖓 𝟚𝟘𝟚𝟜</b></h2>
     </summary>
   </ul>
 </div>
