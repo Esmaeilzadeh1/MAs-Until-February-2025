@@ -1,10 +1,7 @@
 <div id="user-content-toc">
   <ul align="center" style="list-style: none;">
     <summary>
-      <h1>
-
-`𝕷𝖎𝖘𝖙 𝖔𝖋 𝕸𝖊𝖙𝖆𝖍𝖊𝖚𝖗𝖎𝖘𝖙𝖎𝖈 𝕬𝖑𝖌𝖔𝖗𝖎𝖙𝖍𝖒𝖘 𝖚𝖓𝖙𝖎𝖑 𝕱𝖊𝖇𝖗𝖚𝖆𝖗𝖞 𝟚𝟘𝟚𝟝` 
-      </h1>
+      <h1>𝕷𝖎𝖘𝖙 𝖔𝖋 𝕸𝖊𝖙𝖆𝖍𝖊𝖚𝖗𝖎𝖘𝖙𝖎𝖈 𝕬𝖑𝖌𝖔𝖗𝖎𝖙𝖍𝖒𝖘 𝖚𝖓𝖙𝖎𝖑 𝕱𝖊𝖇𝖗𝖚𝖆𝖗𝖞 𝟚𝟘𝟚𝟝</h1>
     </summary>
   </ul>
 </div>
@@ -14,7 +11,10 @@
 <div id="user-content-toc">
   <ul align="center" style="list-style: none;">
     <summary>
-      <h2><b>——————— 𝕸𝖊𝖙𝖆𝖍𝖊𝖚𝖗𝖎𝖘𝖙𝖎𝖈 𝕬𝖑𝖌𝖔𝖗𝖎𝖙𝖍𝖒𝖘 𝖎𝖓 𝟚𝟘𝟚𝟝 ————————</b></h2>
+      <h2>
+        
+`              𝕸𝖊𝖙𝖆𝖍𝖊𝖚𝖗𝖎𝖘𝖙𝖎𝖈 𝕬𝖑𝖌𝖔𝖗𝖎𝖙𝖍𝖒𝖘 𝖎𝖓 𝟚𝟘𝟚𝟝              `
+      </h2>
     </summary>
   </ul>
 
