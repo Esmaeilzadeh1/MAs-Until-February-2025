@@ -14,7 +14,7 @@
       <h2><b>Metaheuristic Algorithms in 2025</b></h2>
     </summary>
   </ul>
-</div>
+
 
 |**Ref**   |**Algorithm Name**                                                             |**Pub. Year**|**Ref**|**Algorithm Name**                                                                  |**Pub. Year**|
 |:--------:|:-----------------------------------------------------------------------------:|:-----------:|:--------:|:-------------------------------------------------------------------------------:|:-----------:|
@@ -28,6 +28,8 @@
 |**[1]**   | 1995                                                                          | O(n log n)  |**[1]**   | Machine Learning                                                                |  Sorting    |
 |**[1]**   | 2017                                                                          | O(n²)       |**[1]**   | Natural Language Processing                                                     |  Sorting    |
 |**[1]**   | 2018                                                                          | O(n²)       |**[1]**   | NLP & AI                                                                        |  Sorting    |
+
+</div>
 
 <div id="user-content-toc">
   <ul align="center" style="list-style: none;">
